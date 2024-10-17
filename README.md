@@ -6,7 +6,8 @@ This is the code for the paper "Distribution-preserving-based-Automatic-Data-Aug
 ![framework](My_framework.pdf)
 
 # Running the code
-python main.py
+1. Train the cover augmentation network: python main.py
+2. Generate augmented cover: python generate_Augcover.py
 
 # Citing
 

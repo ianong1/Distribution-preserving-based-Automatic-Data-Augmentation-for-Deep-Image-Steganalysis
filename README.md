@@ -3,7 +3,7 @@
 This is the code for the paper "Distribution-preserving-based-Automatic-Data-Augmentation-for-Deep-Image-Steganalysis" (TMM 2021).
 
 
-![framework](framework.png)
+![framework](My_framework.pdf)
 
 # Running the code
 python main.py
